@@ -1,0 +1,4 @@
+name = "ojad"
+uuid = "940d058d-a0ab-42b6-8446-e014e890dd70"
+authors = ["Xijiang Yu <xijiang@users.noreply.github.com>"]
+version = "0.1.0"
